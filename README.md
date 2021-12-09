@@ -1,3 +1,8 @@
+Forked from NLP based movie recommendation project by Alex Muhr found [here](https://github.com/alexmuhr/Natural-Language-Movie-Recommendations) and whose README.md can be seen below.
+
+---
+---
+
 # Natural-Language-Movie-Recommendations  
 Movie recommendations based on user written passages about preferred movies. Final project for Metis Immersive Data Science Program. Example app built on this project is featured [here](http://18.218.199.101/).
   
